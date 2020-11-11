@@ -1,0 +1,1 @@
+cmd_/home/book/vs_proj/char_dev_101/dtsled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/book/vs_proj/char_dev_101/dtsled.ko /home/book/vs_proj/char_dev_101/dtsled.o /home/book/vs_proj/char_dev_101/dtsled.mod.o

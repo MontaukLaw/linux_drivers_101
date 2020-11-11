@@ -1,0 +1,1 @@
+cmd_/home/book/vs_proj/char_dev_101/led.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/book/vs_proj/char_dev_101/led.ko /home/book/vs_proj/char_dev_101/led.o /home/book/vs_proj/char_dev_101/led.mod.o

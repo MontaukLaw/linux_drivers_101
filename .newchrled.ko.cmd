@@ -1,0 +1,1 @@
+cmd_/home/book/vs_proj/char_dev_101/newchrled.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/book/vs_proj/char_dev_101/newchrled.ko /home/book/vs_proj/char_dev_101/newchrled.o /home/book/vs_proj/char_dev_101/newchrled.mod.o

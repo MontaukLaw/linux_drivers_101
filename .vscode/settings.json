@@ -1,0 +1,19 @@
+{
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+    },
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/*.cmd": true,
+        "**/*.ko": true,
+        "**/*.o": true,
+        "**/*.order": true,
+        "**/*.symvers": true,
+
+    },
+}

@@ -1,0 +1,1 @@
+cmd_/home/book/vs_proj/char_dev_101/dtsgpio2.ko := arm-linux-gnueabihf-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/book/vs_proj/char_dev_101/dtsgpio2.ko /home/book/vs_proj/char_dev_101/dtsgpio2.o /home/book/vs_proj/char_dev_101/dtsgpio2.mod.o
